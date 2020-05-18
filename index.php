@@ -23,7 +23,7 @@
     </style>
   </head>
   <body>
-    <img src="herald.png" alt="Herald Suva">
+    <img src="assets/images/herald.png" alt="Herald Suva">
 
 
     <!-- Optional JavaScript -->
